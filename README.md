@@ -34,8 +34,3 @@ Users must be able to interact with your game in some way and have the game visu
 - When a user presses a key, Processing's code will automatically call any method named `keyPressed()`. The `key` instance property will automatically be assigned the key that was pressed, as as `char` value.
 - When a user moves, clicks, or drags the mouse, Processing's code will automatically call any method named `mouseMoved()`, `mouseClicked()`, or `mouseDragged()`, respectively. The `mouseX` and `mouseY` instance properties will automatically hold the position of the mouse, measured from the top-left origin of the window.
 
-### ...
-
-### Resubmit as many times as you want
-
-You can re-submit as many times as you want before the deadline. Just make changes to the files on your own computer and repeat the process outlined above to upload them to GitHub.
